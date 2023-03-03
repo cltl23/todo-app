@@ -1,5 +1,6 @@
 import React from "react";
+import Container from "../components/Container/Container";
 
 export default function Home() {
-  return <div>To-do </div>;
+  return <Container></Container>;
 }
