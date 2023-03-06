@@ -3,10 +3,14 @@ html {
 }
 
 body {
-  border: red 1px dotted;
   height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: #f3f3d3;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
 }
